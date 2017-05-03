@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_history.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\tab_history.xml"
+    },
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_setup.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\tab_setup.xml"
+    },
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_weather.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\tab_weather.xml"
+    },
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weather_demo.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\activity_weather_demo.xml"
+    },
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_row.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\data_row.xml"
+    },
+    {
+        "merged": "F:\\My_project\\WeatherDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather_demo.xml",
+        "source": "F:\\My_project\\WeatherDemo\\app\\src\\main\\res\\layout\\fragment_weather_demo.xml"
+    }
+]

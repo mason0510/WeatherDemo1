@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\My_project\WeatherDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7a585eea4f7c5d3b1d09e9274434aac15456cfb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My_project\WeatherDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="509504ec5f9d5a2aaca6298e26e586f60900d924">
+        <dex dex="F:\My_project\WeatherDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a133e03c472422feff29b21436e710cead9587cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\My_project\WeatherDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb39dd964a7b496cc82c1bb1c6f3f8a443ac94c8">
+        <dex dex="F:\My_project\WeatherDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ff71f60b549d8206e22739172bcab799e01557b\classes.dex" />
+    </item>
+
+</items>
